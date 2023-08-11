@@ -6,4 +6,9 @@ Sunshine Medical currently provides care for 2,300 patients per year through a v
 
 The Sunhine Medical Manager aims to address these issues by implementing a website driven database to record and prioritize patients for testing in their respective departments.
 
-Project was worked on with Lamary Petty (voyagerfan - https://github.com/voyagerfan)
+Project was worked on with **Lamary Petty** (voyagerfan - https://github.com/voyagerfan)
+
+## Technologies Used
+**Python -**
+**MySQL/MariaDB -** 
+**HTML/CSS -**
