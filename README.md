@@ -9,6 +9,6 @@ The Sunhine Medical Manager aims to address these issues by implementing a websi
 Project was worked on with **Lamary Petty** (voyagerfan - https://github.com/voyagerfan)
 
 ## Technologies Used
-**MySQL/MariaDB -**  
-**Python -** 
-**HTML/CSS -**
+**MySQL/MariaDB **  
+**Python ** 
+**HTML/CSS **
